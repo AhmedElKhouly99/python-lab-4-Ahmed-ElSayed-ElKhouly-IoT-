@@ -1,0 +1,14 @@
+
+                    From: ahmed@gmail.com
+                    To: myFriend@gmail.com
+
+                    Hi, My friend
+
+                    This is an email template.
+
+                    thanks
+
+                    ==================== Email Subject =======================
+
+                    new mail
+                
